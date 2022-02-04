@@ -199,4 +199,16 @@ section{
     color: #601cfc;
 }
 /* projects style end */
+/* contact style start */
+.contact .icon {
+    font-size: 4.5em;
+}
+.contact .info h3{
+    color: black;
+}
+.contact .info p{
+    font-size: 1.2em;
+}
+/* contact style end */
+
 
